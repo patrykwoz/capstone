@@ -1,4 +1,0 @@
-in:eastWWR,in:southWWR,in:westWWR,out:coolingKwhM2,out:heatingKwhM2,out:solarGainKwhM2,img,threeD
-0.25,0.25,0.25,11.480053,84.810292,33.111254,eastWWR0.25_southWWR0.25_westWWR0.25_Perspective.png,eastWWR0.25_southWWR0.25_westWWR0.25.json
-0.25,0.25,0.85,16.602862,85.749023,68.35526,eastWWR0.25_southWWR0.25_westWWR0.85_Perspective.png,eastWWR0.25_southWWR0.25_westWWR0.85.json
-0.85,0.25,0.85,20.507478,86.097144,99.968164,eastWWR0.85_southWWR0.25_westWWR0.85_Perspective.png,eastWWR0.85_southWWR0.25_westWWR0.85.json
